@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1716789385 source:c:\users\elev\documents\darius\blackjack\main.cpp
+	<iostream>
+	"deck.h"
+
+1716789053 c:\users\elev\documents\darius\blackjack\deck.h
+	<cstring>
+	<random>
+	<time.h>
+	<algorithm>
+
